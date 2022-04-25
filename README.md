@@ -1,1 +1,2 @@
 # JinyunCilentModList
+# 所有服务端mod上传前请务在客户端完成测试以初步确保其兼容性和前置lib完整
